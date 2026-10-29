@@ -104,8 +104,6 @@ Tech: ESP32, PIR Sensor, ACS712 Current Sensor, CircuitDigest Cloud
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkithaDevadiga17&theme=radical" alt="GitHub Streak" />
 </p>
 
----
-
 ### Let's Connect
 
 - GitHub: https://github.com/AnkithaDevadiga17
